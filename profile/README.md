@@ -1,12 +1,8 @@
-## Hi there 👋
+**Smo samooklicani inštitut** sestavljajo nas **dijaki in študentje** z navdušenjem nad **strojnim učenjem**.
 
-<!--
+Skupaj raziskujemo, eksperimentiramo in razvijamo projekte, ki nas navdihujejo. 💡  
+Naše ideje in ugotovitve objavljamo v člankih ter delimo **odprtokodne projekte** z vsemi, ki jih zanima prihodnost tehnologije. 🌐🚀
 
-**Here are some ideas to get you started:**
+Tukaj smo, da **širimo znanje**, ustvarjamo nekaj novega in se ob tem še **zabavamo**. 🎉
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
